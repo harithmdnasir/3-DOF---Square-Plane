@@ -1,6 +1,6 @@
 # 3-DOF---Square-Plane
 
-The block reads rotation angles (degree), computes using the basic rotation matrix, R = Rz(psi) * Ry(the) * Rx(phi) and visualizes the plane orientation using plot plot.
+The block reads rotation angles (degree), computes using the basic rotation matrix, R = Rz(psi) * Ry(the) * Rx(phi) and visualizes the plane orientation using plot.
 
 Instruction:
 1. Add folder to Matlab path.
